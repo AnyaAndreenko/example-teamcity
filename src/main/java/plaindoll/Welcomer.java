@@ -13,8 +13,9 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String replyHunter() {
+    		return "I am the hunter of bugs!";
+	}
 }
 
-public String replyHunter() {
-    return "I am the hunter of bugs!";
-}
+
